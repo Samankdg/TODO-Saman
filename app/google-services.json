@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393743128204",
+    "firebase_url": "https://todo-saman-da620.firebaseio.com",
+    "project_id": "todo-saman-da620",
+    "storage_bucket": "todo-saman-da620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393743128204:android:32556b65c49b514ebacda9",
+        "android_client_info": {
+          "package_name": "com.example.todosaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393743128204-l1qcv8d53mi76c8dpl96mppcptubuddl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todosaman",
+            "certificate_hash": "32041fa83042f6d3d890e56d5aa5921f69682eec"
+          }
+        },
+        {
+          "client_id": "393743128204-2nj5jbhqj6hbnjab2v62dndthtbcsdn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbAOiOrSdy8Xi1idaKxn9igHdNAsLYK5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393743128204-2nj5jbhqj6hbnjab2v62dndthtbcsdn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
